@@ -4,6 +4,7 @@
   "description": "Sample node application",
   "main": "index.js",
   "scripts": {
+    "start" : "npm run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kengwoh",
